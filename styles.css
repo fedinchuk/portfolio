@@ -1,0 +1,11 @@
+.colortext {
+  color: red; /* Червоний колір виділення */
+}
+
+.vid {
+  font: bold italic large serif;
+}
+
+.image-lock {
+  pointer-events: none;
+}
